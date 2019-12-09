@@ -16,7 +16,7 @@
                    <br><br><br>
                     <p><i class="fa fa-users fa-5x"></i></p>
                     <p class="lead">
-                        Al registrarse recibira notificaciones de  productos y ofertas más recientes en nuestra tienda.
+                        Al registrarse recibira notificaciones de productos y ofertas más recientes en nuestra tienda.
                     </p>
                     <br>
                     <img src="assets/img/Registro.png" alt="electrodomesticos" class="img-responsive">
